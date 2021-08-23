@@ -1,6 +1,6 @@
 body {
   font-size: 16px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "Comic Sans MS", sans-serif;
 }
 
 div.container {
@@ -113,8 +113,8 @@ p {
 
 @media (max-width: 770px){
    .box {
-    margin-left:  80px;
-    margin-right: 80px;
+    margin-left:  10%;
+    margin-right: 10%;
   } 
 }
 
